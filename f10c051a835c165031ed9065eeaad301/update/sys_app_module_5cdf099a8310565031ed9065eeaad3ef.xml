@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="Configuration Data Cleanup">e4cf45928310565031ed9065eeaad3f5</application>
+        <assessment/>
+        <device_type/>
+        <filter>null</filter>
+        <hint>Here you can add the query for records to be deleted by the fix script</hint>
+        <homepage/>
+        <image/>
+        <link_type>DIRECT</link_type>
+        <map_page/>
+        <mobile_title>Query configuration</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name/>
+        <order>200</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query>system_properties_ui.do?sysparm_title=Encoded Query Definition&amp;sysparm_category=Cleanup_Application_Properties</query>
+        <report/>
+        <require_confirmation>true</require_confirmation>
+        <roles/>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-08-30 16:32:18</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>5cdf099a8310565031ed9065eeaad3ef</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Input Variables</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Configuration Data Cleanup script" source="f10c051a835c165031ed9065eeaad301">f10c051a835c165031ed9065eeaad301</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Configuration Data Cleanup script">f10c051a835c165031ed9065eeaad301</sys_scope>
+        <sys_update_name>sys_app_module_5cdf099a8310565031ed9065eeaad3ef</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-08-30 17:01:38</sys_updated_on>
+        <timeline_page/>
+        <title>Input Variables</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name>Encoded Query Definition</window_name>
+    </sys_app_module>
+</record_update>

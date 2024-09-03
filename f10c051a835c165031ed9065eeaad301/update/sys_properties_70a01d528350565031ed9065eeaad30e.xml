@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties">
+    <sys_properties action="INSERT_OR_UPDATE">
+        <choices/>
+        <description>Here You can define the tables as targets for the encoded queries. Fill in the table names in apostrofes, devided by ",". I.e.:&#13;
+'sys_ui_element','sys_ui_section'&#13;
+Follow the predefined muster.</description>
+        <ignore_cache>true</ignore_cache>
+        <is_private>false</is_private>
+        <name>C.targetTables</name>
+        <read_roles/>
+        <suffix/>
+        <sys_class_name>sys_properties</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-08-30 16:36:24</sys_created_on>
+        <sys_id>70a01d528350565031ed9065eeaad30e</sys_id>
+        <sys_mod_count>6</sys_mod_count>
+        <sys_name>C.targetTables</sys_name>
+        <sys_package display_value="Configuration Data Cleanup script" source="f10c051a835c165031ed9065eeaad301">f10c051a835c165031ed9065eeaad301</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Configuration Data Cleanup script">f10c051a835c165031ed9065eeaad301</sys_scope>
+        <sys_update_name>sys_properties_70a01d528350565031ed9065eeaad30e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-08-30 18:50:46</sys_updated_on>
+        <type>string</type>
+        <value>sys_ui_section,sys_ui_element</value>
+        <write_roles>admin</write_roles>
+    </sys_properties>
+    <sys_translated_text action="delete_multiple" query="documentkey=70a01d528350565031ed9065eeaad30e"/>
+</record_update>
